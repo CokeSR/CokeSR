@@ -1,5 +1,6 @@
 # 原神60级
-![Static Badge](https://img.shields.io/badge/GenshinImpact-Coke-blue) ![Static Badge](https://img.shields.io/badge/python-red) ![Static Badge](https://img.shields.io/badge/Goland-yellow) ![Static Badge](https://img.shields.io/badge/shell-green) ![Static Badge](https://img.shields.io/badge/Java-pink)
+![Static Badge](https://img.shields.io/badge/GenshinImpact-Coke-blue) ![Static Badge](https://img.shields.io/badge/HkRPG-Coke-palevioletred) ![Static Badge](https://img.shields.io/badge/python-red) ![Static Badge](https://img.shields.io/badge/Golang-yellow) ![Static Badge](https://img.shields.io/badge/shell-green) ![Static Badge](https://img.shields.io/badge/Java-pink) ![Static Badge](https://img.shields.io/badge/Ubuntu-orange) ![Static Badge](https://img.shields.io/badge/Vscode-brown) ![Static Badge](https://img.shields.io/badge/PhotoShop-cyan) ![Static Badge](https://img.shields.io/badge/VisualStudio-peachpuff) ![Static Badge](https://img.shields.io/badge/IDEA-palevioletred) ![Static Badge](https://img.shields.io/badge/Goland-grey)
+
 
 <!--
 **CokeSR/CokeSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
