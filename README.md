@@ -1,4 +1,5 @@
-### Hi there 👋
+# 原神60级
+![Static Badge](https://img.shields.io/badge/GenshinImpact-Coke-blue) ![Static Badge](https://img.shields.io/badge/python-red) ![Static Badge](https://img.shields.io/badge/Goland-yellow) ![Static Badge](https://img.shields.io/badge/shell-green) ![Static Badge](https://img.shields.io/badge/Java-pink)
 
 <!--
 **CokeSR/CokeSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
